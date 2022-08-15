@@ -1,3 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#image-description{
+    height: 300px;
+}
+
+#descricao{
+
+}
+
 #name {
     font-family: 'Noto Sans', sans-serif;
     font-weight: 800;
@@ -30,9 +43,10 @@ body {
     font-size: 16px;
 }
 
-#Foto1 {
+#foto1 {
     border-radius: 8px ;
-    padding: 100px, 200px;
+    float: left;
+    
 }
 
 #livro {
@@ -44,6 +58,7 @@ body {
 
 }
 
-#descricao {
-    text-align: center;
+div{
+    border: solid green;
 }
+

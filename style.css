@@ -1,0 +1,49 @@
+#name {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 800;
+    font-size: 44px;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: #BE835F;
+}
+
+#país {
+    font-size: 18px;
+}
+
+#cidade {
+    font-style: oblique;
+
+}
+
+.listasite {
+    font-size: 18px;
+}
+
+.listasoft {
+    font-size: 16px;
+}
+
+#Foto1 {
+    border-radius: 8px ;
+    padding: 100px, 200px;
+}
+
+#livro {
+    background-color: antiquewhite;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 8px;
+    justify-content: center;
+
+}
+
+#descricao {
+    text-align: center;
+}
